@@ -27,4 +27,7 @@ main h3 {
 	text-indent: 30px;
 }
 
+/* q7 italizes links when hovered over*/
+header nav a:hover{font-style: italic;}
+
 /* the styles for the footer */
