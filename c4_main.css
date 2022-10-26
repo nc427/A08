@@ -28,7 +28,7 @@ main h3 {
 }
 
 /* q7 italizes links when hovered over*/
-nav a:hover{font-style: italic;}
+header nav a:hover{font-style: italic;}
 
 /* the styles for the footer */
 footer{
