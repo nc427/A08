@@ -31,7 +31,7 @@ main h3 {
 header nav a:hover{font-style: italic;}
 
 /* the styles for the footer */
-footer{
+footer p {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
