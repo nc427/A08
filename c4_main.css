@@ -33,4 +33,6 @@ nav a:hover{font-style: italic;}
 /* the styles for the footer */
 footer{
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
